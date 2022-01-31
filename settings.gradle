@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "MizaAstika_19100026_Todolist"
